@@ -81,6 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Bootstrap](https://getbootstrap.com/) - Front-end framework
 - [Font Awesome](https://fontawesome.com/) - Icon set
 
----
+ 
 
-Feel free to customize this README with additional information, screenshots, or instructions specific to your project. Replace placeholders like `yourusername` with your actual GitHub username and update any links accordingly.
+ 

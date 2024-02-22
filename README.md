@@ -27,7 +27,7 @@ ThetaTravel is a web application designed for travelers to meet, share, and expl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Theta-Travel.website.git
+git clone https://github.com/jayram0402/Theta-Travel.website.git
 ```
 
 2. Set up a local server environment using XAMPP.
